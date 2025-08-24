@@ -1,0 +1,2402 @@
+[
+    {
+        "review_id": 1,
+        "product_id": 2,
+        "customer_id": 73,
+        "review_text": "Good but could be better.",
+        "rating": 1,
+        "review_date": "2025-05-02"
+    },
+    {
+        "review_id": 2,
+        "product_id": 18,
+        "customer_id": 35,
+        "review_text": "Highly recommended.",
+        "rating": 1,
+        "review_date": "2025-03-06"
+    },
+    {
+        "review_id": 3,
+        "product_id": 11,
+        "customer_id": 71,
+        "review_text": "Highly recommended.",
+        "rating": 3,
+        "review_date": "2024-10-15"
+    },
+    {
+        "review_id": 4,
+        "product_id": 6,
+        "customer_id": 42,
+        "review_text": "Terrible experience.",
+        "rating": 3,
+        "review_date": "2025-02-07"
+    },
+    {
+        "review_id": 5,
+        "product_id": 14,
+        "customer_id": 5,
+        "review_text": "Loved it!",
+        "rating": 1,
+        "review_date": "2024-12-07"
+    },
+    {
+        "review_id": 6,
+        "product_id": 6,
+        "customer_id": 11,
+        "review_text": "Terrible experience.",
+        "rating": 3,
+        "review_date": "2024-12-26"
+    },
+    {
+        "review_id": 7,
+        "product_id": 9,
+        "customer_id": 42,
+        "review_text": "Excellent value for money.",
+        "rating": 5,
+        "review_date": "2024-09-03"
+    },
+    {
+        "review_id": 8,
+        "product_id": 5,
+        "customer_id": 18,
+        "review_text": "Five stars!",
+        "rating": 2,
+        "review_date": "2024-09-06"
+    },
+    {
+        "review_id": 9,
+        "product_id": 1,
+        "customer_id": 64,
+        "review_text": "Highly recommended.",
+        "rating": 1,
+        "review_date": "2024-08-12"
+    },
+    {
+        "review_id": 10,
+        "product_id": 5,
+        "customer_id": 8,
+        "review_text": "Loved it!",
+        "rating": 4,
+        "review_date": "2024-06-03"
+    },
+    {
+        "review_id": 11,
+        "product_id": 20,
+        "customer_id": 34,
+        "review_text": "Excellent value for money.",
+        "rating": 5,
+        "review_date": "2024-11-09"
+    },
+    {
+        "review_id": 12,
+        "product_id": 1,
+        "customer_id": 61,
+        "review_text": "Would not buy again.",
+        "rating": 1,
+        "review_date": "2025-05-19"
+    },
+    {
+        "review_id": 13,
+        "product_id": 2,
+        "customer_id": 71,
+        "review_text": "Excellent value for money.",
+        "rating": 2,
+        "review_date": "2025-01-25"
+    },
+    {
+        "review_id": 14,
+        "product_id": 17,
+        "customer_id": 65,
+        "review_text": "Highly recommended.",
+        "rating": 4,
+        "review_date": "2024-07-22"
+    },
+    {
+        "review_id": 15,
+        "product_id": 1,
+        "customer_id": 10,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2024-11-19"
+    },
+    {
+        "review_id": 16,
+        "product_id": 2,
+        "customer_id": 72,
+        "review_text": "Great product!",
+        "rating": 5,
+        "review_date": "2025-03-14"
+    },
+    {
+        "review_id": 17,
+        "product_id": 5,
+        "customer_id": 49,
+        "review_text": "Excellent value for money.",
+        "rating": 1,
+        "review_date": "2024-07-31"
+    },
+    {
+        "review_id": 18,
+        "product_id": 20,
+        "customer_id": 52,
+        "review_text": "Would not buy again.",
+        "rating": 3,
+        "review_date": "2024-12-01"
+    },
+    {
+        "review_id": 19,
+        "product_id": 5,
+        "customer_id": 58,
+        "review_text": "Poor quality.",
+        "rating": 5,
+        "review_date": "2024-12-20"
+    },
+    {
+        "review_id": 20,
+        "product_id": 20,
+        "customer_id": 22,
+        "review_text": "Excellent value for money.",
+        "rating": 1,
+        "review_date": "2025-05-09"
+    },
+    {
+        "review_id": 21,
+        "product_id": 11,
+        "customer_id": 27,
+        "review_text": "Great product!",
+        "rating": 1,
+        "review_date": "2025-01-19"
+    },
+    {
+        "review_id": 22,
+        "product_id": 8,
+        "customer_id": 28,
+        "review_text": "Five stars!",
+        "rating": 3,
+        "review_date": "2024-08-30"
+    },
+    {
+        "review_id": 23,
+        "product_id": 12,
+        "customer_id": 56,
+        "review_text": "Great product!",
+        "rating": 4,
+        "review_date": "2025-01-26"
+    },
+    {
+        "review_id": 24,
+        "product_id": 11,
+        "customer_id": 86,
+        "review_text": "Great product!",
+        "rating": 3,
+        "review_date": "2025-02-28"
+    },
+    {
+        "review_id": 25,
+        "product_id": 8,
+        "customer_id": 65,
+        "review_text": "Great product!",
+        "rating": 3,
+        "review_date": "2025-01-05"
+    },
+    {
+        "review_id": 26,
+        "product_id": 17,
+        "customer_id": 5,
+        "review_text": "Great product!",
+        "rating": 1,
+        "review_date": "2025-03-26"
+    },
+    {
+        "review_id": 27,
+        "product_id": 19,
+        "customer_id": 36,
+        "review_text": "Excellent value for money.",
+        "rating": 3,
+        "review_date": "2025-05-12"
+    },
+    {
+        "review_id": 28,
+        "product_id": 14,
+        "customer_id": 34,
+        "review_text": "Good but could be better.",
+        "rating": 5,
+        "review_date": "2024-06-25"
+    },
+    {
+        "review_id": 29,
+        "product_id": 16,
+        "customer_id": 10,
+        "review_text": "Loved it!",
+        "rating": 5,
+        "review_date": "2024-08-14"
+    },
+    {
+        "review_id": 30,
+        "product_id": 19,
+        "customer_id": 82,
+        "review_text": "Great product!",
+        "rating": 2,
+        "review_date": "2024-06-30"
+    },
+    {
+        "review_id": 31,
+        "product_id": 10,
+        "customer_id": 91,
+        "review_text": "Terrible experience.",
+        "rating": 3,
+        "review_date": "2025-04-25"
+    },
+    {
+        "review_id": 32,
+        "product_id": 14,
+        "customer_id": 21,
+        "review_text": "Five stars!",
+        "rating": 1,
+        "review_date": "2025-05-29"
+    },
+    {
+        "review_id": 33,
+        "product_id": 10,
+        "customer_id": 93,
+        "review_text": "Terrible experience.",
+        "rating": 5,
+        "review_date": "2024-09-17"
+    },
+    {
+        "review_id": 34,
+        "product_id": 20,
+        "customer_id": 25,
+        "review_text": "Terrible experience.",
+        "rating": 5,
+        "review_date": "2025-05-02"
+    },
+    {
+        "review_id": 35,
+        "product_id": 20,
+        "customer_id": 60,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2024-06-28"
+    },
+    {
+        "review_id": 36,
+        "product_id": 6,
+        "customer_id": 66,
+        "review_text": "Good but could be better.",
+        "rating": 4,
+        "review_date": "2024-08-23"
+    },
+    {
+        "review_id": 37,
+        "product_id": 6,
+        "customer_id": 12,
+        "review_text": "Would not buy again.",
+        "rating": 5,
+        "review_date": "2024-08-22"
+    },
+    {
+        "review_id": 38,
+        "product_id": 2,
+        "customer_id": 12,
+        "review_text": "Excellent value for money.",
+        "rating": 1,
+        "review_date": "2025-01-12"
+    },
+    {
+        "review_id": 39,
+        "product_id": 14,
+        "customer_id": 45,
+        "review_text": "Excellent value for money.",
+        "rating": 5,
+        "review_date": "2024-08-19"
+    },
+    {
+        "review_id": 40,
+        "product_id": 13,
+        "customer_id": 93,
+        "review_text": "Excellent value for money.",
+        "rating": 4,
+        "review_date": "2024-09-24"
+    },
+    {
+        "review_id": 41,
+        "product_id": 14,
+        "customer_id": 42,
+        "review_text": "Highly recommended.",
+        "rating": 3,
+        "review_date": "2024-06-04"
+    },
+    {
+        "review_id": 42,
+        "product_id": 5,
+        "customer_id": 31,
+        "review_text": "Great product!",
+        "rating": 4,
+        "review_date": "2024-09-20"
+    },
+    {
+        "review_id": 43,
+        "product_id": 17,
+        "customer_id": 2,
+        "review_text": "Great product!",
+        "rating": 3,
+        "review_date": "2024-09-02"
+    },
+    {
+        "review_id": 44,
+        "product_id": 15,
+        "customer_id": 54,
+        "review_text": "Highly recommended.",
+        "rating": 4,
+        "review_date": "2024-11-20"
+    },
+    {
+        "review_id": 45,
+        "product_id": 17,
+        "customer_id": 97,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2025-02-22"
+    },
+    {
+        "review_id": 46,
+        "product_id": 17,
+        "customer_id": 35,
+        "review_text": "Good but could be better.",
+        "rating": 1,
+        "review_date": "2025-04-29"
+    },
+    {
+        "review_id": 47,
+        "product_id": 8,
+        "customer_id": 76,
+        "review_text": "Good but could be better.",
+        "rating": 5,
+        "review_date": "2024-08-18"
+    },
+    {
+        "review_id": 48,
+        "product_id": 19,
+        "customer_id": 29,
+        "review_text": "Excellent value for money.",
+        "rating": 2,
+        "review_date": "2024-12-14"
+    },
+    {
+        "review_id": 49,
+        "product_id": 19,
+        "customer_id": 84,
+        "review_text": "Terrible experience.",
+        "rating": 4,
+        "review_date": "2024-07-09"
+    },
+    {
+        "review_id": 50,
+        "product_id": 6,
+        "customer_id": 38,
+        "review_text": "Highly recommended.",
+        "rating": 2,
+        "review_date": "2024-11-10"
+    },
+    {
+        "review_id": 51,
+        "product_id": 11,
+        "customer_id": 57,
+        "review_text": "Highly recommended.",
+        "rating": 4,
+        "review_date": "2024-12-18"
+    },
+    {
+        "review_id": 52,
+        "product_id": 8,
+        "customer_id": 24,
+        "review_text": "Would not buy again.",
+        "rating": 4,
+        "review_date": "2024-12-02"
+    },
+    {
+        "review_id": 53,
+        "product_id": 2,
+        "customer_id": 62,
+        "review_text": "Excellent value for money.",
+        "rating": 4,
+        "review_date": "2024-10-13"
+    },
+    {
+        "review_id": 54,
+        "product_id": 8,
+        "customer_id": 49,
+        "review_text": "Great product!",
+        "rating": 3,
+        "review_date": "2024-06-18"
+    },
+    {
+        "review_id": 55,
+        "product_id": 1,
+        "customer_id": 97,
+        "review_text": "Great product!",
+        "rating": 2,
+        "review_date": "2024-10-26"
+    },
+    {
+        "review_id": 56,
+        "product_id": 4,
+        "customer_id": 36,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2024-06-12"
+    },
+    {
+        "review_id": 57,
+        "product_id": 13,
+        "customer_id": 97,
+        "review_text": "Terrible experience.",
+        "rating": 2,
+        "review_date": "2024-12-29"
+    },
+    {
+        "review_id": 58,
+        "product_id": 11,
+        "customer_id": 84,
+        "review_text": "Good but could be better.",
+        "rating": 3,
+        "review_date": "2024-10-05"
+    },
+    {
+        "review_id": 59,
+        "product_id": 17,
+        "customer_id": 32,
+        "review_text": "Not worth the price.",
+        "rating": 2,
+        "review_date": "2024-07-25"
+    },
+    {
+        "review_id": 60,
+        "product_id": 6,
+        "customer_id": 92,
+        "review_text": "Highly recommended.",
+        "rating": 3,
+        "review_date": "2024-09-12"
+    },
+    {
+        "review_id": 61,
+        "product_id": 2,
+        "customer_id": 62,
+        "review_text": "Terrible experience.",
+        "rating": 1,
+        "review_date": "2025-04-01"
+    },
+    {
+        "review_id": 62,
+        "product_id": 19,
+        "customer_id": 50,
+        "review_text": "Good but could be better.",
+        "rating": 1,
+        "review_date": "2024-06-12"
+    },
+    {
+        "review_id": 63,
+        "product_id": 14,
+        "customer_id": 31,
+        "review_text": "Great product!",
+        "rating": 1,
+        "review_date": "2025-04-06"
+    },
+    {
+        "review_id": 64,
+        "product_id": 11,
+        "customer_id": 8,
+        "review_text": "Poor quality.",
+        "rating": 5,
+        "review_date": "2024-11-29"
+    },
+    {
+        "review_id": 65,
+        "product_id": 20,
+        "customer_id": 37,
+        "review_text": "Would not buy again.",
+        "rating": 4,
+        "review_date": "2024-12-09"
+    },
+    {
+        "review_id": 66,
+        "product_id": 4,
+        "customer_id": 78,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2024-06-19"
+    },
+    {
+        "review_id": 67,
+        "product_id": 3,
+        "customer_id": 41,
+        "review_text": "Highly recommended.",
+        "rating": 1,
+        "review_date": "2025-04-13"
+    },
+    {
+        "review_id": 68,
+        "product_id": 4,
+        "customer_id": 19,
+        "review_text": "Not worth the price.",
+        "rating": 2,
+        "review_date": "2024-10-25"
+    },
+    {
+        "review_id": 69,
+        "product_id": 8,
+        "customer_id": 60,
+        "review_text": "Excellent value for money.",
+        "rating": 4,
+        "review_date": "2025-05-27"
+    },
+    {
+        "review_id": 70,
+        "product_id": 15,
+        "customer_id": 77,
+        "review_text": "Great product!",
+        "rating": 2,
+        "review_date": "2025-01-18"
+    },
+    {
+        "review_id": 71,
+        "product_id": 6,
+        "customer_id": 22,
+        "review_text": "Poor quality.",
+        "rating": 4,
+        "review_date": "2024-09-27"
+    },
+    {
+        "review_id": 72,
+        "product_id": 19,
+        "customer_id": 43,
+        "review_text": "Excellent value for money.",
+        "rating": 3,
+        "review_date": "2025-01-15"
+    },
+    {
+        "review_id": 73,
+        "product_id": 9,
+        "customer_id": 40,
+        "review_text": "Great product!",
+        "rating": 5,
+        "review_date": "2025-04-26"
+    },
+    {
+        "review_id": 74,
+        "product_id": 13,
+        "customer_id": 52,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2024-07-22"
+    },
+    {
+        "review_id": 75,
+        "product_id": 9,
+        "customer_id": 7,
+        "review_text": "Good but could be better.",
+        "rating": 3,
+        "review_date": "2024-07-28"
+    },
+    {
+        "review_id": 76,
+        "product_id": 14,
+        "customer_id": 10,
+        "review_text": "Great product!",
+        "rating": 3,
+        "review_date": "2024-07-14"
+    },
+    {
+        "review_id": 77,
+        "product_id": 11,
+        "customer_id": 27,
+        "review_text": "Highly recommended.",
+        "rating": 2,
+        "review_date": "2025-04-20"
+    },
+    {
+        "review_id": 78,
+        "product_id": 12,
+        "customer_id": 46,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2025-01-21"
+    },
+    {
+        "review_id": 79,
+        "product_id": 2,
+        "customer_id": 67,
+        "review_text": "Would not buy again.",
+        "rating": 5,
+        "review_date": "2024-12-18"
+    },
+    {
+        "review_id": 80,
+        "product_id": 1,
+        "customer_id": 73,
+        "review_text": "Great product!",
+        "rating": 5,
+        "review_date": "2025-01-19"
+    },
+    {
+        "review_id": 81,
+        "product_id": 9,
+        "customer_id": 71,
+        "review_text": "Excellent value for money.",
+        "rating": 2,
+        "review_date": "2024-07-26"
+    },
+    {
+        "review_id": 82,
+        "product_id": 10,
+        "customer_id": 5,
+        "review_text": "Excellent value for money.",
+        "rating": 3,
+        "review_date": "2024-11-24"
+    },
+    {
+        "review_id": 83,
+        "product_id": 15,
+        "customer_id": 83,
+        "review_text": "Terrible experience.",
+        "rating": 3,
+        "review_date": "2024-11-09"
+    },
+    {
+        "review_id": 84,
+        "product_id": 1,
+        "customer_id": 58,
+        "review_text": "Poor quality.",
+        "rating": 2,
+        "review_date": "2025-03-29"
+    },
+    {
+        "review_id": 85,
+        "product_id": 3,
+        "customer_id": 94,
+        "review_text": "Not worth the price.",
+        "rating": 1,
+        "review_date": "2024-12-18"
+    },
+    {
+        "review_id": 86,
+        "product_id": 9,
+        "customer_id": 91,
+        "review_text": "Good but could be better.",
+        "rating": 1,
+        "review_date": "2024-09-07"
+    },
+    {
+        "review_id": 87,
+        "product_id": 10,
+        "customer_id": 71,
+        "review_text": "Not worth the price.",
+        "rating": 4,
+        "review_date": "2025-02-27"
+    },
+    {
+        "review_id": 88,
+        "product_id": 11,
+        "customer_id": 5,
+        "review_text": "Terrible experience.",
+        "rating": 5,
+        "review_date": "2024-08-21"
+    },
+    {
+        "review_id": 89,
+        "product_id": 19,
+        "customer_id": 75,
+        "review_text": "Terrible experience.",
+        "rating": 2,
+        "review_date": "2025-02-25"
+    },
+    {
+        "review_id": 90,
+        "product_id": 15,
+        "customer_id": 85,
+        "review_text": "Terrible experience.",
+        "rating": 4,
+        "review_date": "2025-05-06"
+    },
+    {
+        "review_id": 91,
+        "product_id": 20,
+        "customer_id": 35,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2024-11-12"
+    },
+    {
+        "review_id": 92,
+        "product_id": 19,
+        "customer_id": 32,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2024-11-23"
+    },
+    {
+        "review_id": 93,
+        "product_id": 16,
+        "customer_id": 35,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2025-04-01"
+    },
+    {
+        "review_id": 94,
+        "product_id": 20,
+        "customer_id": 94,
+        "review_text": "Excellent value for money.",
+        "rating": 2,
+        "review_date": "2024-08-06"
+    },
+    {
+        "review_id": 95,
+        "product_id": 15,
+        "customer_id": 97,
+        "review_text": "Five stars!",
+        "rating": 3,
+        "review_date": "2024-12-01"
+    },
+    {
+        "review_id": 96,
+        "product_id": 17,
+        "customer_id": 53,
+        "review_text": "Loved it!",
+        "rating": 4,
+        "review_date": "2025-03-14"
+    },
+    {
+        "review_id": 97,
+        "product_id": 12,
+        "customer_id": 43,
+        "review_text": "Would not buy again.",
+        "rating": 3,
+        "review_date": "2024-09-21"
+    },
+    {
+        "review_id": 98,
+        "product_id": 9,
+        "customer_id": 92,
+        "review_text": "Loved it!",
+        "rating": 5,
+        "review_date": "2025-02-19"
+    },
+    {
+        "review_id": 99,
+        "product_id": 11,
+        "customer_id": 58,
+        "review_text": "Terrible experience.",
+        "rating": 2,
+        "review_date": "2025-04-26"
+    },
+    {
+        "review_id": 100,
+        "product_id": 6,
+        "customer_id": 10,
+        "review_text": "Great product!",
+        "rating": 1,
+        "review_date": "2024-09-23"
+    },
+    {
+        "review_id": 101,
+        "product_id": 12,
+        "customer_id": 67,
+        "review_text": "Not worth the price.",
+        "rating": 1,
+        "review_date": "2024-10-27"
+    },
+    {
+        "review_id": 102,
+        "product_id": 18,
+        "customer_id": 29,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2024-12-12"
+    },
+    {
+        "review_id": 103,
+        "product_id": 5,
+        "customer_id": 55,
+        "review_text": "Loved it!",
+        "rating": 1,
+        "review_date": "2024-08-30"
+    },
+    {
+        "review_id": 104,
+        "product_id": 6,
+        "customer_id": 30,
+        "review_text": "Loved it!",
+        "rating": 4,
+        "review_date": "2024-06-21"
+    },
+    {
+        "review_id": 105,
+        "product_id": 5,
+        "customer_id": 81,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2025-04-05"
+    },
+    {
+        "review_id": 106,
+        "product_id": 2,
+        "customer_id": 27,
+        "review_text": "Poor quality.",
+        "rating": 4,
+        "review_date": "2025-02-05"
+    },
+    {
+        "review_id": 107,
+        "product_id": 15,
+        "customer_id": 67,
+        "review_text": "Not worth the price.",
+        "rating": 4,
+        "review_date": "2024-12-31"
+    },
+    {
+        "review_id": 108,
+        "product_id": 5,
+        "customer_id": 60,
+        "review_text": "Poor quality.",
+        "rating": 5,
+        "review_date": "2025-06-01"
+    },
+    {
+        "review_id": 109,
+        "product_id": 20,
+        "customer_id": 38,
+        "review_text": "Excellent value for money.",
+        "rating": 4,
+        "review_date": "2025-03-01"
+    },
+    {
+        "review_id": 110,
+        "product_id": 13,
+        "customer_id": 59,
+        "review_text": "Excellent value for money.",
+        "rating": 3,
+        "review_date": "2025-01-30"
+    },
+    {
+        "review_id": 111,
+        "product_id": 12,
+        "customer_id": 57,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2024-06-27"
+    },
+    {
+        "review_id": 112,
+        "product_id": 6,
+        "customer_id": 59,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2025-03-03"
+    },
+    {
+        "review_id": 113,
+        "product_id": 14,
+        "customer_id": 40,
+        "review_text": "Great product!",
+        "rating": 5,
+        "review_date": "2024-11-24"
+    },
+    {
+        "review_id": 114,
+        "product_id": 7,
+        "customer_id": 86,
+        "review_text": "Five stars!",
+        "rating": 3,
+        "review_date": "2025-03-31"
+    },
+    {
+        "review_id": 115,
+        "product_id": 13,
+        "customer_id": 65,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2024-09-01"
+    },
+    {
+        "review_id": 116,
+        "product_id": 9,
+        "customer_id": 25,
+        "review_text": "Terrible experience.",
+        "rating": 5,
+        "review_date": "2025-01-30"
+    },
+    {
+        "review_id": 117,
+        "product_id": 2,
+        "customer_id": 40,
+        "review_text": "Excellent value for money.",
+        "rating": 2,
+        "review_date": "2024-08-10"
+    },
+    {
+        "review_id": 118,
+        "product_id": 3,
+        "customer_id": 72,
+        "review_text": "Not worth the price.",
+        "rating": 2,
+        "review_date": "2025-01-31"
+    },
+    {
+        "review_id": 119,
+        "product_id": 14,
+        "customer_id": 92,
+        "review_text": "Excellent value for money.",
+        "rating": 1,
+        "review_date": "2025-02-04"
+    },
+    {
+        "review_id": 120,
+        "product_id": 18,
+        "customer_id": 34,
+        "review_text": "Poor quality.",
+        "rating": 1,
+        "review_date": "2024-09-03"
+    },
+    {
+        "review_id": 121,
+        "product_id": 14,
+        "customer_id": 21,
+        "review_text": "Terrible experience.",
+        "rating": 5,
+        "review_date": "2024-12-15"
+    },
+    {
+        "review_id": 122,
+        "product_id": 1,
+        "customer_id": 89,
+        "review_text": "Not worth the price.",
+        "rating": 4,
+        "review_date": "2025-03-14"
+    },
+    {
+        "review_id": 123,
+        "product_id": 3,
+        "customer_id": 71,
+        "review_text": "Excellent value for money.",
+        "rating": 3,
+        "review_date": "2025-04-21"
+    },
+    {
+        "review_id": 124,
+        "product_id": 8,
+        "customer_id": 13,
+        "review_text": "Not worth the price.",
+        "rating": 3,
+        "review_date": "2024-11-26"
+    },
+    {
+        "review_id": 125,
+        "product_id": 1,
+        "customer_id": 99,
+        "review_text": "Highly recommended.",
+        "rating": 5,
+        "review_date": "2025-05-01"
+    },
+    {
+        "review_id": 126,
+        "product_id": 9,
+        "customer_id": 45,
+        "review_text": "Excellent value for money.",
+        "rating": 4,
+        "review_date": "2025-03-08"
+    },
+    {
+        "review_id": 127,
+        "product_id": 4,
+        "customer_id": 48,
+        "review_text": "Good but could be better.",
+        "rating": 5,
+        "review_date": "2025-01-12"
+    },
+    {
+        "review_id": 128,
+        "product_id": 19,
+        "customer_id": 31,
+        "review_text": "Terrible experience.",
+        "rating": 2,
+        "review_date": "2025-01-02"
+    },
+    {
+        "review_id": 129,
+        "product_id": 1,
+        "customer_id": 20,
+        "review_text": "Excellent value for money.",
+        "rating": 4,
+        "review_date": "2024-07-14"
+    },
+    {
+        "review_id": 130,
+        "product_id": 16,
+        "customer_id": 90,
+        "review_text": "Good but could be better.",
+        "rating": 1,
+        "review_date": "2024-06-01"
+    },
+    {
+        "review_id": 131,
+        "product_id": 6,
+        "customer_id": 9,
+        "review_text": "Not worth the price.",
+        "rating": 1,
+        "review_date": "2025-02-12"
+    },
+    {
+        "review_id": 132,
+        "product_id": 3,
+        "customer_id": 93,
+        "review_text": "Not worth the price.",
+        "rating": 3,
+        "review_date": "2024-07-21"
+    },
+    {
+        "review_id": 133,
+        "product_id": 2,
+        "customer_id": 36,
+        "review_text": "Not worth the price.",
+        "rating": 2,
+        "review_date": "2024-08-30"
+    },
+    {
+        "review_id": 134,
+        "product_id": 9,
+        "customer_id": 52,
+        "review_text": "Not worth the price.",
+        "rating": 3,
+        "review_date": "2024-12-16"
+    },
+    {
+        "review_id": 135,
+        "product_id": 8,
+        "customer_id": 86,
+        "review_text": "Not worth the price.",
+        "rating": 3,
+        "review_date": "2025-05-18"
+    },
+    {
+        "review_id": 136,
+        "product_id": 13,
+        "customer_id": 76,
+        "review_text": "Poor quality.",
+        "rating": 3,
+        "review_date": "2024-09-28"
+    },
+    {
+        "review_id": 137,
+        "product_id": 6,
+        "customer_id": 31,
+        "review_text": "Loved it!",
+        "rating": 5,
+        "review_date": "2024-10-05"
+    },
+    {
+        "review_id": 138,
+        "product_id": 9,
+        "customer_id": 67,
+        "review_text": "Not worth the price.",
+        "rating": 2,
+        "review_date": "2024-07-15"
+    },
+    {
+        "review_id": 139,
+        "product_id": 15,
+        "customer_id": 17,
+        "review_text": "Loved it!",
+        "rating": 2,
+        "review_date": "2025-04-06"
+    },
+    {
+        "review_id": 140,
+        "product_id": 12,
+        "customer_id": 24,
+        "review_text": "Terrible experience.",
+        "rating": 3,
+        "review_date": "2024-11-15"
+    },
+    {
+        "review_id": 141,
+        "product_id": 5,
+        "customer_id": 35,
+        "review_text": "Would not buy again.",
+        "rating": 1,
+        "review_date": "2025-03-10"
+    },
+    {
+        "review_id": 142,
+        "product_id": 2,
+        "customer_id": 75,
+        "review_text": "Highly recommended.",
+        "rating": 2,
+        "review_date": "2025-05-14"
+    },
+    {
+        "review_id": 143,
+        "product_id": 18,
+        "customer_id": 93,
+        "review_text": "Loved it!",
+        "rating": 1,
+        "review_date": "2025-03-28"
+    },
+    {
+        "review_id": 144,
+        "product_id": 12,
+        "customer_id": 82,
+        "review_text": "Highly recommended.",
+        "rating": 3,
+        "review_date": "2025-05-22"
+    },
+    {
+        "review_id": 145,
+        "product_id": 8,
+        "customer_id": 16,
+        "review_text": "Would not buy again.",
+        "rating": 3,
+        "review_date": "2024-12-01"
+    },
+    {
+        "review_id": 146,
+        "product_id": 13,
+        "customer_id": 19,
+        "review_text": "Good but could be better.",
+        "rating": 4,
+        "review_date": "2024-06-17"
+    },
+    {
+        "review_id": 147,
+        "product_id": 17,
+        "customer_id": 43,
+        "review_text": "Poor quality.",
+        "rating": 5,
+        "review_date": "2025-05-20"
+    },
+    {
+        "review_id": 148,
+        "product_id": 5,
+        "customer_id": 57,
+        "review_text": "Terrible experience.",
+        "rating": 4,
+        "review_date": "2024-08-19"
+    },
+    {
+        "review_id": 149,
+        "product_id": 19,
+        "customer_id": 98,
+        "review_text": "Loved it!",
+        "rating": 5,
+        "review_date": "2024-11-12"
+    },
+    {
+        "review_id": 150,
+        "product_id": 2,
+        "customer_id": 83,
+        "review_text": "Great product!",
+        "rating": 1,
+        "review_date": "2025-04-20"
+    },
+    {
+        "review_id": 151,
+        "product_id": 14,
+        "customer_id": 91,
+        "review_text": "Terrible experience.",
+        "rating": 2,
+        "review_date": "2025-02-05"
+    },
+    {
+        "review_id": 152,
+        "product_id": 8,
+        "customer_id": 81,
+        "review_text": "Great product!",
+        "rating": 5,
+        "review_date": "2024-11-01"
+    },
+    {
+        "review_id": 153,
+        "product_id": 8,
+        "customer_id": 76,
+        "review_text": "Good but could be better.",
+        "rating": 1,
+        "review_date": "2025-02-16"
+    },
+    {
+        "review_id": 154,
+        "product_id": 11,
+        "customer_id": 73,
+        "review_text": "Would not buy again.",
+        "rating": 3,
+        "review_date": "2025-01-10"
+    },
+    {
+        "review_id": 155,
+        "product_id": 6,
+        "customer_id": 79,
+        "review_text": "Excellent value for money.",
+        "rating": 4,
+        "review_date": "2025-03-31"
+    },
+    {
+        "review_id": 156,
+        "product_id": 11,
+        "customer_id": 28,
+        "review_text": "Excellent value for money.",
+        "rating": 1,
+        "review_date": "2025-03-11"
+    },
+    {
+        "review_id": 157,
+        "product_id": 3,
+        "customer_id": 43,
+        "review_text": "Loved it!",
+        "rating": 4,
+        "review_date": "2024-09-10"
+    },
+    {
+        "review_id": 158,
+        "product_id": 8,
+        "customer_id": 28,
+        "review_text": "Loved it!",
+        "rating": 3,
+        "review_date": "2025-03-09"
+    },
+    {
+        "review_id": 159,
+        "product_id": 17,
+        "customer_id": 30,
+        "review_text": "Not worth the price.",
+        "rating": 1,
+        "review_date": "2025-05-14"
+    },
+    {
+        "review_id": 160,
+        "product_id": 6,
+        "customer_id": 16,
+        "review_text": "Terrible experience.",
+        "rating": 1,
+        "review_date": "2025-04-12"
+    },
+    {
+        "review_id": 161,
+        "product_id": 3,
+        "customer_id": 63,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2025-05-15"
+    },
+    {
+        "review_id": 162,
+        "product_id": 18,
+        "customer_id": 3,
+        "review_text": "Not worth the price.",
+        "rating": 1,
+        "review_date": "2024-09-25"
+    },
+    {
+        "review_id": 163,
+        "product_id": 7,
+        "customer_id": 64,
+        "review_text": "Loved it!",
+        "rating": 2,
+        "review_date": "2025-03-27"
+    },
+    {
+        "review_id": 164,
+        "product_id": 14,
+        "customer_id": 83,
+        "review_text": "Poor quality.",
+        "rating": 5,
+        "review_date": "2024-08-01"
+    },
+    {
+        "review_id": 165,
+        "product_id": 10,
+        "customer_id": 59,
+        "review_text": "Good but could be better.",
+        "rating": 1,
+        "review_date": "2024-06-27"
+    },
+    {
+        "review_id": 166,
+        "product_id": 7,
+        "customer_id": 42,
+        "review_text": "Not worth the price.",
+        "rating": 5,
+        "review_date": "2024-12-11"
+    },
+    {
+        "review_id": 167,
+        "product_id": 19,
+        "customer_id": 29,
+        "review_text": "Excellent value for money.",
+        "rating": 5,
+        "review_date": "2024-06-17"
+    },
+    {
+        "review_id": 168,
+        "product_id": 6,
+        "customer_id": 32,
+        "review_text": "Good but could be better.",
+        "rating": 4,
+        "review_date": "2025-04-05"
+    },
+    {
+        "review_id": 169,
+        "product_id": 11,
+        "customer_id": 16,
+        "review_text": "Five stars!",
+        "rating": 1,
+        "review_date": "2025-05-08"
+    },
+    {
+        "review_id": 170,
+        "product_id": 12,
+        "customer_id": 93,
+        "review_text": "Not worth the price.",
+        "rating": 3,
+        "review_date": "2024-10-09"
+    },
+    {
+        "review_id": 171,
+        "product_id": 2,
+        "customer_id": 76,
+        "review_text": "Would not buy again.",
+        "rating": 1,
+        "review_date": "2025-01-14"
+    },
+    {
+        "review_id": 172,
+        "product_id": 2,
+        "customer_id": 47,
+        "review_text": "Would not buy again.",
+        "rating": 3,
+        "review_date": "2024-06-11"
+    },
+    {
+        "review_id": 173,
+        "product_id": 7,
+        "customer_id": 93,
+        "review_text": "Five stars!",
+        "rating": 4,
+        "review_date": "2024-10-27"
+    },
+    {
+        "review_id": 174,
+        "product_id": 20,
+        "customer_id": 80,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2024-12-10"
+    },
+    {
+        "review_id": 175,
+        "product_id": 1,
+        "customer_id": 12,
+        "review_text": "Five stars!",
+        "rating": 4,
+        "review_date": "2025-04-01"
+    },
+    {
+        "review_id": 176,
+        "product_id": 6,
+        "customer_id": 30,
+        "review_text": "Not worth the price.",
+        "rating": 5,
+        "review_date": "2024-11-19"
+    },
+    {
+        "review_id": 177,
+        "product_id": 4,
+        "customer_id": 13,
+        "review_text": "Excellent value for money.",
+        "rating": 2,
+        "review_date": "2024-11-07"
+    },
+    {
+        "review_id": 178,
+        "product_id": 17,
+        "customer_id": 49,
+        "review_text": "Highly recommended.",
+        "rating": 1,
+        "review_date": "2025-04-28"
+    },
+    {
+        "review_id": 179,
+        "product_id": 12,
+        "customer_id": 64,
+        "review_text": "Terrible experience.",
+        "rating": 2,
+        "review_date": "2025-01-30"
+    },
+    {
+        "review_id": 180,
+        "product_id": 14,
+        "customer_id": 63,
+        "review_text": "Poor quality.",
+        "rating": 2,
+        "review_date": "2024-11-30"
+    },
+    {
+        "review_id": 181,
+        "product_id": 16,
+        "customer_id": 6,
+        "review_text": "Would not buy again.",
+        "rating": 3,
+        "review_date": "2024-10-21"
+    },
+    {
+        "review_id": 182,
+        "product_id": 14,
+        "customer_id": 64,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2024-11-02"
+    },
+    {
+        "review_id": 183,
+        "product_id": 19,
+        "customer_id": 88,
+        "review_text": "Five stars!",
+        "rating": 4,
+        "review_date": "2024-11-01"
+    },
+    {
+        "review_id": 184,
+        "product_id": 16,
+        "customer_id": 15,
+        "review_text": "Five stars!",
+        "rating": 4,
+        "review_date": "2024-09-12"
+    },
+    {
+        "review_id": 185,
+        "product_id": 2,
+        "customer_id": 80,
+        "review_text": "Highly recommended.",
+        "rating": 3,
+        "review_date": "2024-12-17"
+    },
+    {
+        "review_id": 186,
+        "product_id": 11,
+        "customer_id": 6,
+        "review_text": "Good but could be better.",
+        "rating": 1,
+        "review_date": "2024-09-21"
+    },
+    {
+        "review_id": 187,
+        "product_id": 18,
+        "customer_id": 35,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2024-07-09"
+    },
+    {
+        "review_id": 188,
+        "product_id": 20,
+        "customer_id": 38,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2024-08-08"
+    },
+    {
+        "review_id": 189,
+        "product_id": 19,
+        "customer_id": 57,
+        "review_text": "Great product!",
+        "rating": 5,
+        "review_date": "2024-08-12"
+    },
+    {
+        "review_id": 190,
+        "product_id": 19,
+        "customer_id": 78,
+        "review_text": "Five stars!",
+        "rating": 3,
+        "review_date": "2025-01-12"
+    },
+    {
+        "review_id": 191,
+        "product_id": 6,
+        "customer_id": 18,
+        "review_text": "Excellent value for money.",
+        "rating": 3,
+        "review_date": "2024-07-28"
+    },
+    {
+        "review_id": 192,
+        "product_id": 20,
+        "customer_id": 94,
+        "review_text": "Good but could be better.",
+        "rating": 4,
+        "review_date": "2025-03-24"
+    },
+    {
+        "review_id": 193,
+        "product_id": 10,
+        "customer_id": 87,
+        "review_text": "Loved it!",
+        "rating": 4,
+        "review_date": "2025-01-09"
+    },
+    {
+        "review_id": 194,
+        "product_id": 12,
+        "customer_id": 29,
+        "review_text": "Highly recommended.",
+        "rating": 1,
+        "review_date": "2024-06-20"
+    },
+    {
+        "review_id": 195,
+        "product_id": 11,
+        "customer_id": 64,
+        "review_text": "Poor quality.",
+        "rating": 2,
+        "review_date": "2025-01-08"
+    },
+    {
+        "review_id": 196,
+        "product_id": 7,
+        "customer_id": 75,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2024-08-08"
+    },
+    {
+        "review_id": 197,
+        "product_id": 4,
+        "customer_id": 97,
+        "review_text": "Poor quality.",
+        "rating": 3,
+        "review_date": "2025-03-18"
+    },
+    {
+        "review_id": 198,
+        "product_id": 13,
+        "customer_id": 24,
+        "review_text": "Poor quality.",
+        "rating": 3,
+        "review_date": "2025-03-07"
+    },
+    {
+        "review_id": 199,
+        "product_id": 6,
+        "customer_id": 45,
+        "review_text": "Terrible experience.",
+        "rating": 4,
+        "review_date": "2024-12-25"
+    },
+    {
+        "review_id": 200,
+        "product_id": 7,
+        "customer_id": 12,
+        "review_text": "Poor quality.",
+        "rating": 2,
+        "review_date": "2025-02-08"
+    },
+    {
+        "review_id": 201,
+        "product_id": 9,
+        "customer_id": 31,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2025-02-16"
+    },
+    {
+        "review_id": 202,
+        "product_id": 10,
+        "customer_id": 39,
+        "review_text": "Terrible experience.",
+        "rating": 1,
+        "review_date": "2024-06-10"
+    },
+    {
+        "review_id": 203,
+        "product_id": 2,
+        "customer_id": 91,
+        "review_text": "Great product!",
+        "rating": 4,
+        "review_date": "2025-04-05"
+    },
+    {
+        "review_id": 204,
+        "product_id": 16,
+        "customer_id": 94,
+        "review_text": "Not worth the price.",
+        "rating": 3,
+        "review_date": "2024-11-29"
+    },
+    {
+        "review_id": 205,
+        "product_id": 2,
+        "customer_id": 43,
+        "review_text": "Great product!",
+        "rating": 5,
+        "review_date": "2024-07-24"
+    },
+    {
+        "review_id": 206,
+        "product_id": 12,
+        "customer_id": 60,
+        "review_text": "Highly recommended.",
+        "rating": 1,
+        "review_date": "2025-02-22"
+    },
+    {
+        "review_id": 207,
+        "product_id": 14,
+        "customer_id": 31,
+        "review_text": "Would not buy again.",
+        "rating": 1,
+        "review_date": "2025-02-15"
+    },
+    {
+        "review_id": 208,
+        "product_id": 2,
+        "customer_id": 59,
+        "review_text": "Terrible experience.",
+        "rating": 3,
+        "review_date": "2025-06-01"
+    },
+    {
+        "review_id": 209,
+        "product_id": 12,
+        "customer_id": 7,
+        "review_text": "Highly recommended.",
+        "rating": 3,
+        "review_date": "2025-05-16"
+    },
+    {
+        "review_id": 210,
+        "product_id": 16,
+        "customer_id": 64,
+        "review_text": "Excellent value for money.",
+        "rating": 4,
+        "review_date": "2024-06-12"
+    },
+    {
+        "review_id": 211,
+        "product_id": 2,
+        "customer_id": 91,
+        "review_text": "Five stars!",
+        "rating": 4,
+        "review_date": "2024-07-01"
+    },
+    {
+        "review_id": 212,
+        "product_id": 13,
+        "customer_id": 99,
+        "review_text": "Would not buy again.",
+        "rating": 5,
+        "review_date": "2024-12-22"
+    },
+    {
+        "review_id": 213,
+        "product_id": 19,
+        "customer_id": 6,
+        "review_text": "Terrible experience.",
+        "rating": 1,
+        "review_date": "2024-10-06"
+    },
+    {
+        "review_id": 214,
+        "product_id": 16,
+        "customer_id": 31,
+        "review_text": "Not worth the price.",
+        "rating": 1,
+        "review_date": "2025-02-08"
+    },
+    {
+        "review_id": 215,
+        "product_id": 12,
+        "customer_id": 54,
+        "review_text": "Not worth the price.",
+        "rating": 4,
+        "review_date": "2024-07-22"
+    },
+    {
+        "review_id": 216,
+        "product_id": 1,
+        "customer_id": 27,
+        "review_text": "Not worth the price.",
+        "rating": 4,
+        "review_date": "2024-12-06"
+    },
+    {
+        "review_id": 217,
+        "product_id": 18,
+        "customer_id": 97,
+        "review_text": "Loved it!",
+        "rating": 5,
+        "review_date": "2025-01-02"
+    },
+    {
+        "review_id": 218,
+        "product_id": 13,
+        "customer_id": 29,
+        "review_text": "Loved it!",
+        "rating": 5,
+        "review_date": "2025-03-22"
+    },
+    {
+        "review_id": 219,
+        "product_id": 20,
+        "customer_id": 65,
+        "review_text": "Would not buy again.",
+        "rating": 5,
+        "review_date": "2024-11-02"
+    },
+    {
+        "review_id": 220,
+        "product_id": 9,
+        "customer_id": 70,
+        "review_text": "Terrible experience.",
+        "rating": 3,
+        "review_date": "2024-08-10"
+    },
+    {
+        "review_id": 221,
+        "product_id": 6,
+        "customer_id": 15,
+        "review_text": "Loved it!",
+        "rating": 4,
+        "review_date": "2024-09-15"
+    },
+    {
+        "review_id": 222,
+        "product_id": 1,
+        "customer_id": 75,
+        "review_text": "Good but could be better.",
+        "rating": 3,
+        "review_date": "2025-03-20"
+    },
+    {
+        "review_id": 223,
+        "product_id": 8,
+        "customer_id": 47,
+        "review_text": "Terrible experience.",
+        "rating": 4,
+        "review_date": "2025-05-20"
+    },
+    {
+        "review_id": 224,
+        "product_id": 1,
+        "customer_id": 62,
+        "review_text": "Five stars!",
+        "rating": 3,
+        "review_date": "2025-04-25"
+    },
+    {
+        "review_id": 225,
+        "product_id": 16,
+        "customer_id": 34,
+        "review_text": "Five stars!",
+        "rating": 4,
+        "review_date": "2025-05-02"
+    },
+    {
+        "review_id": 226,
+        "product_id": 1,
+        "customer_id": 95,
+        "review_text": "Loved it!",
+        "rating": 1,
+        "review_date": "2024-08-26"
+    },
+    {
+        "review_id": 227,
+        "product_id": 5,
+        "customer_id": 90,
+        "review_text": "Loved it!",
+        "rating": 3,
+        "review_date": "2024-09-02"
+    },
+    {
+        "review_id": 228,
+        "product_id": 19,
+        "customer_id": 34,
+        "review_text": "Not worth the price.",
+        "rating": 3,
+        "review_date": "2025-01-25"
+    },
+    {
+        "review_id": 229,
+        "product_id": 4,
+        "customer_id": 85,
+        "review_text": "Would not buy again.",
+        "rating": 1,
+        "review_date": "2024-09-16"
+    },
+    {
+        "review_id": 230,
+        "product_id": 10,
+        "customer_id": 59,
+        "review_text": "Poor quality.",
+        "rating": 2,
+        "review_date": "2025-03-06"
+    },
+    {
+        "review_id": 231,
+        "product_id": 12,
+        "customer_id": 22,
+        "review_text": "Five stars!",
+        "rating": 3,
+        "review_date": "2025-04-01"
+    },
+    {
+        "review_id": 232,
+        "product_id": 13,
+        "customer_id": 91,
+        "review_text": "Five stars!",
+        "rating": 2,
+        "review_date": "2024-10-19"
+    },
+    {
+        "review_id": 233,
+        "product_id": 15,
+        "customer_id": 44,
+        "review_text": "Great product!",
+        "rating": 3,
+        "review_date": "2024-08-05"
+    },
+    {
+        "review_id": 234,
+        "product_id": 19,
+        "customer_id": 40,
+        "review_text": "Good but could be better.",
+        "rating": 4,
+        "review_date": "2025-02-21"
+    },
+    {
+        "review_id": 235,
+        "product_id": 16,
+        "customer_id": 88,
+        "review_text": "Loved it!",
+        "rating": 2,
+        "review_date": "2024-08-19"
+    },
+    {
+        "review_id": 236,
+        "product_id": 5,
+        "customer_id": 22,
+        "review_text": "Excellent value for money.",
+        "rating": 2,
+        "review_date": "2025-04-06"
+    },
+    {
+        "review_id": 237,
+        "product_id": 3,
+        "customer_id": 14,
+        "review_text": "Not worth the price.",
+        "rating": 5,
+        "review_date": "2025-02-06"
+    },
+    {
+        "review_id": 238,
+        "product_id": 3,
+        "customer_id": 76,
+        "review_text": "Excellent value for money.",
+        "rating": 2,
+        "review_date": "2024-07-11"
+    },
+    {
+        "review_id": 239,
+        "product_id": 14,
+        "customer_id": 63,
+        "review_text": "Poor quality.",
+        "rating": 5,
+        "review_date": "2025-05-20"
+    },
+    {
+        "review_id": 240,
+        "product_id": 4,
+        "customer_id": 20,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2024-08-17"
+    },
+    {
+        "review_id": 241,
+        "product_id": 2,
+        "customer_id": 22,
+        "review_text": "Loved it!",
+        "rating": 3,
+        "review_date": "2025-03-16"
+    },
+    {
+        "review_id": 242,
+        "product_id": 13,
+        "customer_id": 76,
+        "review_text": "Loved it!",
+        "rating": 3,
+        "review_date": "2024-09-10"
+    },
+    {
+        "review_id": 243,
+        "product_id": 9,
+        "customer_id": 55,
+        "review_text": "Excellent value for money.",
+        "rating": 1,
+        "review_date": "2025-05-05"
+    },
+    {
+        "review_id": 244,
+        "product_id": 2,
+        "customer_id": 98,
+        "review_text": "Terrible experience.",
+        "rating": 2,
+        "review_date": "2024-12-22"
+    },
+    {
+        "review_id": 245,
+        "product_id": 10,
+        "customer_id": 27,
+        "review_text": "Highly recommended.",
+        "rating": 4,
+        "review_date": "2024-06-20"
+    },
+    {
+        "review_id": 246,
+        "product_id": 1,
+        "customer_id": 88,
+        "review_text": "Loved it!",
+        "rating": 4,
+        "review_date": "2024-06-08"
+    },
+    {
+        "review_id": 247,
+        "product_id": 20,
+        "customer_id": 12,
+        "review_text": "Terrible experience.",
+        "rating": 4,
+        "review_date": "2024-09-07"
+    },
+    {
+        "review_id": 248,
+        "product_id": 10,
+        "customer_id": 46,
+        "review_text": "Great product!",
+        "rating": 2,
+        "review_date": "2024-07-26"
+    },
+    {
+        "review_id": 249,
+        "product_id": 9,
+        "customer_id": 46,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2024-10-24"
+    },
+    {
+        "review_id": 250,
+        "product_id": 4,
+        "customer_id": 34,
+        "review_text": "Poor quality.",
+        "rating": 3,
+        "review_date": "2025-02-12"
+    },
+    {
+        "review_id": 251,
+        "product_id": 11,
+        "customer_id": 9,
+        "review_text": "Excellent value for money.",
+        "rating": 3,
+        "review_date": "2025-03-23"
+    },
+    {
+        "review_id": 252,
+        "product_id": 15,
+        "customer_id": 55,
+        "review_text": "Five stars!",
+        "rating": 2,
+        "review_date": "2025-05-25"
+    },
+    {
+        "review_id": 253,
+        "product_id": 3,
+        "customer_id": 5,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2024-11-06"
+    },
+    {
+        "review_id": 254,
+        "product_id": 4,
+        "customer_id": 85,
+        "review_text": "Not worth the price.",
+        "rating": 1,
+        "review_date": "2025-03-30"
+    },
+    {
+        "review_id": 255,
+        "product_id": 4,
+        "customer_id": 38,
+        "review_text": "Would not buy again.",
+        "rating": 3,
+        "review_date": "2024-09-24"
+    },
+    {
+        "review_id": 256,
+        "product_id": 5,
+        "customer_id": 20,
+        "review_text": "Loved it!",
+        "rating": 4,
+        "review_date": "2024-08-28"
+    },
+    {
+        "review_id": 257,
+        "product_id": 12,
+        "customer_id": 67,
+        "review_text": "Great product!",
+        "rating": 5,
+        "review_date": "2024-09-07"
+    },
+    {
+        "review_id": 258,
+        "product_id": 10,
+        "customer_id": 26,
+        "review_text": "Five stars!",
+        "rating": 2,
+        "review_date": "2025-03-22"
+    },
+    {
+        "review_id": 259,
+        "product_id": 19,
+        "customer_id": 49,
+        "review_text": "Five stars!",
+        "rating": 1,
+        "review_date": "2025-01-23"
+    },
+    {
+        "review_id": 260,
+        "product_id": 14,
+        "customer_id": 78,
+        "review_text": "Not worth the price.",
+        "rating": 4,
+        "review_date": "2024-07-11"
+    },
+    {
+        "review_id": 261,
+        "product_id": 10,
+        "customer_id": 88,
+        "review_text": "Five stars!",
+        "rating": 4,
+        "review_date": "2024-12-11"
+    },
+    {
+        "review_id": 262,
+        "product_id": 3,
+        "customer_id": 24,
+        "review_text": "Highly recommended.",
+        "rating": 3,
+        "review_date": "2025-03-13"
+    },
+    {
+        "review_id": 263,
+        "product_id": 17,
+        "customer_id": 8,
+        "review_text": "Highly recommended.",
+        "rating": 5,
+        "review_date": "2025-03-19"
+    },
+    {
+        "review_id": 264,
+        "product_id": 3,
+        "customer_id": 22,
+        "review_text": "Terrible experience.",
+        "rating": 3,
+        "review_date": "2025-05-21"
+    },
+    {
+        "review_id": 265,
+        "product_id": 2,
+        "customer_id": 92,
+        "review_text": "Loved it!",
+        "rating": 3,
+        "review_date": "2024-11-08"
+    },
+    {
+        "review_id": 266,
+        "product_id": 4,
+        "customer_id": 70,
+        "review_text": "Poor quality.",
+        "rating": 1,
+        "review_date": "2025-04-30"
+    },
+    {
+        "review_id": 267,
+        "product_id": 15,
+        "customer_id": 13,
+        "review_text": "Good but could be better.",
+        "rating": 4,
+        "review_date": "2025-05-23"
+    },
+    {
+        "review_id": 268,
+        "product_id": 4,
+        "customer_id": 3,
+        "review_text": "Terrible experience.",
+        "rating": 5,
+        "review_date": "2024-12-08"
+    },
+    {
+        "review_id": 269,
+        "product_id": 1,
+        "customer_id": 24,
+        "review_text": "Great product!",
+        "rating": 4,
+        "review_date": "2025-03-16"
+    },
+    {
+        "review_id": 270,
+        "product_id": 2,
+        "customer_id": 94,
+        "review_text": "Highly recommended.",
+        "rating": 1,
+        "review_date": "2024-07-03"
+    },
+    {
+        "review_id": 271,
+        "product_id": 5,
+        "customer_id": 74,
+        "review_text": "Five stars!",
+        "rating": 4,
+        "review_date": "2024-06-06"
+    },
+    {
+        "review_id": 272,
+        "product_id": 11,
+        "customer_id": 29,
+        "review_text": "Five stars!",
+        "rating": 5,
+        "review_date": "2024-07-29"
+    },
+    {
+        "review_id": 273,
+        "product_id": 9,
+        "customer_id": 27,
+        "review_text": "Highly recommended.",
+        "rating": 3,
+        "review_date": "2024-10-23"
+    },
+    {
+        "review_id": 274,
+        "product_id": 2,
+        "customer_id": 48,
+        "review_text": "Poor quality.",
+        "rating": 5,
+        "review_date": "2025-05-16"
+    },
+    {
+        "review_id": 275,
+        "product_id": 6,
+        "customer_id": 81,
+        "review_text": "Good but could be better.",
+        "rating": 5,
+        "review_date": "2024-08-21"
+    },
+    {
+        "review_id": 276,
+        "product_id": 15,
+        "customer_id": 58,
+        "review_text": "Highly recommended.",
+        "rating": 5,
+        "review_date": "2025-05-04"
+    },
+    {
+        "review_id": 277,
+        "product_id": 4,
+        "customer_id": 69,
+        "review_text": "Loved it!",
+        "rating": 5,
+        "review_date": "2024-09-26"
+    },
+    {
+        "review_id": 278,
+        "product_id": 10,
+        "customer_id": 76,
+        "review_text": "Highly recommended.",
+        "rating": 3,
+        "review_date": "2025-01-07"
+    },
+    {
+        "review_id": 279,
+        "product_id": 11,
+        "customer_id": 12,
+        "review_text": "Loved it!",
+        "rating": 1,
+        "review_date": "2025-05-19"
+    },
+    {
+        "review_id": 280,
+        "product_id": 15,
+        "customer_id": 56,
+        "review_text": "Great product!",
+        "rating": 2,
+        "review_date": "2024-12-15"
+    },
+    {
+        "review_id": 281,
+        "product_id": 3,
+        "customer_id": 23,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2025-05-09"
+    },
+    {
+        "review_id": 282,
+        "product_id": 3,
+        "customer_id": 53,
+        "review_text": "Poor quality.",
+        "rating": 1,
+        "review_date": "2024-11-21"
+    },
+    {
+        "review_id": 283,
+        "product_id": 14,
+        "customer_id": 40,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2025-04-08"
+    },
+    {
+        "review_id": 284,
+        "product_id": 13,
+        "customer_id": 51,
+        "review_text": "Great product!",
+        "rating": 4,
+        "review_date": "2025-03-03"
+    },
+    {
+        "review_id": 285,
+        "product_id": 19,
+        "customer_id": 7,
+        "review_text": "Good but could be better.",
+        "rating": 2,
+        "review_date": "2024-09-14"
+    },
+    {
+        "review_id": 286,
+        "product_id": 10,
+        "customer_id": 77,
+        "review_text": "Loved it!",
+        "rating": 5,
+        "review_date": "2025-03-23"
+    },
+    {
+        "review_id": 287,
+        "product_id": 12,
+        "customer_id": 52,
+        "review_text": "Five stars!",
+        "rating": 1,
+        "review_date": "2024-10-13"
+    },
+    {
+        "review_id": 288,
+        "product_id": 19,
+        "customer_id": 92,
+        "review_text": "Excellent value for money.",
+        "rating": 1,
+        "review_date": "2025-01-29"
+    },
+    {
+        "review_id": 289,
+        "product_id": 10,
+        "customer_id": 71,
+        "review_text": "Would not buy again.",
+        "rating": 5,
+        "review_date": "2024-08-07"
+    },
+    {
+        "review_id": 290,
+        "product_id": 5,
+        "customer_id": 47,
+        "review_text": "Terrible experience.",
+        "rating": 2,
+        "review_date": "2024-07-18"
+    },
+    {
+        "review_id": 291,
+        "product_id": 1,
+        "customer_id": 45,
+        "review_text": "Five stars!",
+        "rating": 2,
+        "review_date": "2024-09-01"
+    },
+    {
+        "review_id": 292,
+        "product_id": 8,
+        "customer_id": 13,
+        "review_text": "Good but could be better.",
+        "rating": 4,
+        "review_date": "2024-10-09"
+    },
+    {
+        "review_id": 293,
+        "product_id": 1,
+        "customer_id": 53,
+        "review_text": "Good but could be better.",
+        "rating": 1,
+        "review_date": "2024-10-31"
+    },
+    {
+        "review_id": 294,
+        "product_id": 6,
+        "customer_id": 2,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2024-09-21"
+    },
+    {
+        "review_id": 295,
+        "product_id": 20,
+        "customer_id": 14,
+        "review_text": "Would not buy again.",
+        "rating": 3,
+        "review_date": "2024-06-28"
+    },
+    {
+        "review_id": 296,
+        "product_id": 5,
+        "customer_id": 64,
+        "review_text": "Excellent value for money.",
+        "rating": 1,
+        "review_date": "2024-07-02"
+    },
+    {
+        "review_id": 297,
+        "product_id": 8,
+        "customer_id": 59,
+        "review_text": "Excellent value for money.",
+        "rating": 5,
+        "review_date": "2024-08-25"
+    },
+    {
+        "review_id": 298,
+        "product_id": 10,
+        "customer_id": 2,
+        "review_text": "Terrible experience.",
+        "rating": 1,
+        "review_date": "2024-10-29"
+    },
+    {
+        "review_id": 299,
+        "product_id": 19,
+        "customer_id": 19,
+        "review_text": "Would not buy again.",
+        "rating": 2,
+        "review_date": "2024-08-20"
+    },
+    {
+        "review_id": 300,
+        "product_id": 7,
+        "customer_id": 63,
+        "review_text": "Excellent value for money.",
+        "rating": 1,
+        "review_date": "2024-07-01"
+    }
+]
